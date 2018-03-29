@@ -34,7 +34,7 @@ Ass        | nach Belieben 1 Punkt oder 11 Punkte
 * Eine Spielkarte sollte sich nach der Erzeugung nicht mehr verändern.
 * Schreiben Sie eine Klasse ```Kartenstapel```, welche alle 52 Spielkarten enthält. Objekte der Klasse sollen Auskunft darüber geben können, wie viele Karten noch auf dem Stapel sind, und man soll sich die oberste Karte geben lassen können.
 * Bei der Erzeugung eines Kartenstapels sollen die Karten gemischt werden.
-* Erzeugen Sie eine Klasse ```Kartenhand```, die bis zu 21 Karten aufnehmen kann. Einer Kartenhand können Karten hinzugefügt werden.
+* Erzeugen Sie eine Klasse ```Kartenhand```, die bis zu 12 Karten aufnehmen kann. Einer Kartenhand können Karten hinzugefügt werden.
 * Eine Kartenhand soll Auskunft darüber geben, wieviele Punkte gemäß Black-Jack-Regeln sie gerade enthält (nach den Regeln für den Geber).
 * Eine Kartenhand soll einen ```String``` zurückliefern können, der kurz aber übersichtlich beschreibt, welche Karten auf der Hand sind, z. B.: "Pik Bube, Karo Vier, Herz Sechs".
 * Testen Sie ausführlich das Erstellen von Spielkarten, Kartenstapeln und Kartenhänden.
